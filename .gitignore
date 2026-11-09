@@ -1,0 +1,13 @@
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+Thumbs.db
+.DS_Store
+
+# Temporary files & Logs
+*.log
+npm-debug.log*
